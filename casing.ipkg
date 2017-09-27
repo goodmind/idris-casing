@@ -1,3 +1,5 @@
 package casing
 
 modules = Text.Casing
+
+pkgs = split
