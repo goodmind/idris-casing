@@ -1,0 +1,3 @@
+package casing
+
+modules = Text.Casing
